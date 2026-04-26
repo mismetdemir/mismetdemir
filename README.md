@@ -8,7 +8,7 @@ In my private life, I'm interested in photography, especially nature photography
 And I like listening to metal music.
 
 ### Technologies & Tools
-- Languages: Java, C, C++, Python, JavaScript, Assembly
+- Languages: Java, C/C++, Python, JavaScript, Assembly
 - Database: MsSQL, SQL Server Management Studio
 - Web: HTML, CSS, Bootstrap
 - IDE: VS Code, PyCharm, Eclipse, Dev-C++
