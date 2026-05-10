@@ -4,8 +4,7 @@
 I'm an undergraduate computer engineering student @ Arel University. 
 I am a passionate person about learning new technologies. 
 Currently, I'm working on improving myself on JavaScript and Web APIs. 
-In my private life, I'm interested in photography, especially nature photography.
-And I like listening to metal music.
+
 
 ### Technologies & Tools
 - Languages: Java, C/C++, Python, JavaScript, Assembly
