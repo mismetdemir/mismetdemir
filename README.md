@@ -13,6 +13,6 @@ Currently, I'm working on improving myself on JavaScript and Web APIs.
 - IDE: VS Code, PyCharm, Eclipse, Dev-C++
 
 ##  Contact Me
-- LinkedIn: www.linkedin.com/in/muhammed-ismet-demir-57a7b1247
+- [LinkedIn](https://www.linkedin.com/in/mismetdemir/)
 - E-mail: mismetdemir@hotmail.com
 
