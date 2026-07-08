@@ -7,7 +7,7 @@ Currently, I'm working on improving myself on JavaScript and Web APIs.
 
 
 ### Technologies & Tools
-- Languages: Java, C/C++, Python, JavaScript, Assembly
+- Languages: Java, C/C++, Python, JavaScript
 - Database: MsSQL, SQL Server Management Studio
 - Web: HTML, CSS, Bootstrap
 - IDE: VS Code, PyCharm, Eclipse, Dev-C++
